@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nomatter-py/static/css/main.3bf5d191.css",
-    "main.js": "/nomatter-py/static/js/main.120db310.js",
-    "index.html": "/nomatter-py/index.html",
-    "main.3bf5d191.css.map": "/nomatter-py/static/css/main.3bf5d191.css.map",
-    "main.120db310.js.map": "/nomatter-py/static/js/main.120db310.js.map"
+    "main.css": "/goit-react-hw-03-image-finder/static/css/main.3bf5d191.css",
+    "main.js": "/goit-react-hw-03-image-finder/static/js/main.5a8654a9.js",
+    "index.html": "/goit-react-hw-03-image-finder/index.html",
+    "main.3bf5d191.css.map": "/goit-react-hw-03-image-finder/static/css/main.3bf5d191.css.map",
+    "main.5a8654a9.js.map": "/goit-react-hw-03-image-finder/static/js/main.5a8654a9.js.map"
   },
   "entrypoints": [
     "static/css/main.3bf5d191.css",
-    "static/js/main.120db310.js"
+    "static/js/main.5a8654a9.js"
   ]
 }
