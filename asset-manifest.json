@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nomatter-py/static/css/main.3bf5d191.css",
+    "main.js": "/nomatter-py/static/js/main.120db310.js",
+    "index.html": "/nomatter-py/index.html",
+    "main.3bf5d191.css.map": "/nomatter-py/static/css/main.3bf5d191.css.map",
+    "main.120db310.js.map": "/nomatter-py/static/js/main.120db310.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bf5d191.css",
+    "static/js/main.120db310.js"
+  ]
+}
